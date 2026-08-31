@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer • DSA & Competitive Programming • CSE Undergrad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+Real-World+Web+Applications;200%2B+DSA+Problems+Solved;Exploring+AI-Powered+Applications;Full-Stack+%7C+MERN+%7C+Problem+Solving;System+Design+%7C+DevOps+%7C+Cloud;Learn+%E2%86%92+Build+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+Real-World+Web+Applications;200%2B+DSA+Problems+Solved;Full-Stack+%7C+MERN+%7C+Problem+Solving;Exploring+AI-Powered+Applications;System+Design+%7C+DevOps+%7C+Cloud;Learn+%E2%86%92+Build+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation"/>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PrabhakarG001&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=PrabhakarG001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -26,9 +26,9 @@
 
 # 🧑‍💻 About Me
 
-I'm a **Second-Year B.Tech Computer Science student** passionate about building software, solving algorithmic problems, and understanding how modern software systems work.
+I'm a **Second-Year B.Tech Computer Science student** passionate about software development, problem solving, and learning how modern software systems work.
 
-I enjoy working across the stack — from building responsive interfaces and REST APIs to solving DSA problems, designing scalable systems, exploring DevOps, and experimenting with AI-powered applications.
+I enjoy building applications across the stack, solving **Data Structures & Algorithms problems**, exploring **System Design and CS Fundamentals**, and learning how applications are deployed and scaled using **DevOps & Cloud technologies**.
 
 ```text
 🎓 B.Tech CSE Student
@@ -40,7 +40,7 @@ I enjoy working across the stack — from building responsive interfaces and RES
 ☁️ DevOps & Cloud
 🤖 AI / ML
 🚀 Hackathon Enthusiast
-🌱 Always Learning & Building
+🌱 Continuous Learner
 ```
 
 ### 🎯 My Goal
@@ -56,7 +56,7 @@ I enjoy working across the stack — from building responsive interfaces and RES
 
 <td width="50%" align="center">
 
-## 💻 Full-Stack Development
+### 💻 Full-Stack Development
 
 Building modern, responsive and scalable web applications using the **MERN ecosystem** and modern frontend technologies.
 
@@ -64,9 +64,9 @@ Building modern, responsive and scalable web applications using the **MERN ecosy
 
 <td width="50%" align="center">
 
-## 🧠 DSA & Problem Solving
+### 🧠 DSA & Problem Solving
 
-I've solved **200+ DSA problems**, focusing on algorithms, patterns, optimization, and Time & Space Complexity.
+Solved **200+ DSA problems**, with a focus on algorithms, patterns, optimization and Time & Space Complexity.
 
 </td>
 
@@ -76,17 +76,17 @@ I've solved **200+ DSA problems**, focusing on algorithms, patterns, optimizatio
 
 <td width="50%" align="center">
 
-## 🏗️ System Design
+### 🏗️ System Design
 
-Learning how to design **scalable, reliable and maintainable systems**, from APIs and databases to distributed architectures.
+Learning how to design **scalable, reliable and maintainable software systems**.
 
 </td>
 
 <td width="50%" align="center">
 
-## ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 
-Exploring deployment, CI/CD, containers, cloud platforms, automation, monitoring and production workflows.
+Exploring deployment, CI/CD, containers, cloud platforms, automation and production workflows.
 
 </td>
 
@@ -97,10 +97,7 @@ Exploring deployment, CI/CD, containers, cloud platforms, automation, monitoring
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 <table>
-
 <tr>
 
 <td width="50%">
@@ -172,10 +169,7 @@ Interactive browser-based game with a clean and responsive interface.
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
@@ -183,49 +177,16 @@ Interactive browser-based game with a clean and responsive interface.
 
 <div align="center">
 
-<table>
-
-<tr>
-<td align="center">🥉</td>
-<td><b>2nd Runner-Up — Hack The Beginning '26</b><br/>Among 150+ participating teams</td>
-</tr>
-
-<tr>
-<td align="center">🚀</td>
-<td><b>Smart India Hackathon</b><br/>Qualified through internal rounds</td>
-</tr>
-
-<tr>
-<td align="center">🧩</td>
-<td><b>200+ DSA Problems Solved</b><br/>Continuous algorithmic problem solving</td>
-</tr>
-
-<tr>
-<td align="center">🔥</td>
-<td><b>100-Day LeetCode Badge</b><br/>Consistent problem-solving practice</td>
-</tr>
-
-<tr>
-<td align="center">🏅</td>
-<td><b>50-Day LeetCode Badge</b><br/>Consistent coding practice</td>
-</tr>
-
-<tr>
-<td align="center">📜</td>
-<td><b>Full-Stack Web Development Certification</b><br/>Apna College</td>
-</tr>
-
-<tr>
-<td align="center">📜</td>
-<td><b>DSA Certification</b><br/>Apna College</td>
-</tr>
-
-<tr>
-<td align="center">🤖</td>
-<td><b>AI Skills Certificate</b><br/>IBM SkillsBuild</td>
-</tr>
-
-</table>
+| 🏅 Achievement                                | 📌 Details                        |
+| --------------------------------------------- | --------------------------------- |
+| 🥉 **2nd Runner-Up — Hack The Beginning '26** | 150+ participating teams          |
+| 🚀 **Smart India Hackathon**                  | Qualified through internal rounds |
+| 🧩 **200+ DSA Problems Solved**               | Algorithmic problem solving       |
+| 🔥 **100-Day LeetCode Badge**                 | Consistent problem solving        |
+| 🏅 **50-Day LeetCode Badge**                  | Consistent coding practice        |
+| 📜 **Full-Stack Web Development**             | Apna College                      |
+| 📜 **DSA Certification**                      | Apna College                      |
+| 🤖 **AI Skills Certificate**                  | IBM SkillsBuild                   |
 
 </div>
 
@@ -233,11 +194,11 @@ Interactive browser-based game with a clean and responsive interface.
 
 # 🧠 Data Structures & Algorithms
 
-I've covered **Data Structures & Algorithms end-to-end** and solved **200+ problems**, with a focus on understanding concepts, patterns, optimization, and complexity.
+I've covered **Data Structures & Algorithms end-to-end** and solved **200+ problems**, focusing on concepts, patterns, optimization and complexity.
 
-### 📚 Core Areas
+### 📚 Topics Covered
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Arrays-00599C?style=for-the-badge" alt="Arrays"/>
 <img src="https://img.shields.io/badge/Strings-00599C?style=for-the-badge" alt="Strings"/>
@@ -255,14 +216,14 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 <br/>
 
 <img src="https://img.shields.io/badge/Trees-00599C?style=for-the-badge" alt="Trees"/>
-<img src="https://img.shields.io/badge/BST-00599C?style=for-the-badge" alt="Binary Search Tree"/>
+<img src="https://img.shields.io/badge/BST-00599C?style=for-the-badge" alt="BST"/>
 <img src="https://img.shields.io/badge/Heaps-00599C?style=for-the-badge" alt="Heaps"/>
-<img src="https://img.shields.io/badge/Greedy-00599C?style=for-the-badge" alt="Greedy Algorithms"/>
+<img src="https://img.shields.io/badge/Greedy-00599C?style=for-the-badge" alt="Greedy"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Graphs-00599C?style=for-the-badge" alt="Graphs"/>
-<img src="https://img.shields.io/badge/BFS_%2F_DFS-00599C?style=for-the-badge" alt="BFS and DFS"/>
+<img src="https://img.shields.io/badge/BFS_%2F_DFS-00599C?style=for-the-badge" alt="BFS DFS"/>
 <img src="https://img.shields.io/badge/Shortest_Path-00599C?style=for-the-badge" alt="Shortest Path"/>
 <img src="https://img.shields.io/badge/Topological_Sort-00599C?style=for-the-badge" alt="Topological Sort"/>
 
@@ -279,13 +240,13 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 <img src="https://img.shields.io/badge/Two_Pointers-00599C?style=for-the-badge" alt="Two Pointers"/>
 <img src="https://img.shields.io/badge/Prefix_Sum-00599C?style=for-the-badge" alt="Prefix Sum"/>
 
-</p>
+</div>
 
 ### ⚔️ Problem Solving
 
 * 🧩 **200+ DSA problems solved**
-* 🧠 Strong foundation in algorithmic problem solving
-* ⏱️ Focus on **Time & Space Complexity**
+* 🧠 Strong algorithmic foundation
+* ⏱️ Focus on Time & Space Complexity
 * 🔍 Pattern-based problem solving
 * 💻 Primarily solving problems using **C++**
 * ⚔️ Competitive Programming
@@ -297,14 +258,21 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 
 <div align="center">
 
-|   💻 Computer Science Area   | Focus                                           |
-| :--------------------------: | :---------------------------------------------- |
-|          🧩 **OOP**          | Object-Oriented Programming & Design Principles |
-|         🗄️ **DBMS**         | Databases, SQL, Normalization & Transactions    |
-|   ⚙️ **Operating Systems**   | Processes, Threads, Memory & Scheduling         |
-|   🌐 **Computer Networks**   | HTTP, TCP/IP, DNS & Networking Fundamentals     |
-| 🔢 **Computer Architecture** | CPU, Memory, Storage & System Basics            |
-|       🧠 **Algorithms**      | Complexity, Optimization & Problem Solving      |
+<table>
+
+<tr>
+<td align="center">🧩<br/><b>OOP</b><br/>Object-Oriented Programming</td>
+<td align="center">🗄️<br/><b>DBMS</b><br/>Databases & SQL</td>
+<td align="center">⚙️<br/><b>Operating Systems</b><br/>Processes & Memory</td>
+</tr>
+
+<tr>
+<td align="center">🌐<br/><b>Computer Networks</b><br/>Networking Fundamentals</td>
+<td align="center">🔢<br/><b>Computer Architecture</b><br/>CPU & Memory</td>
+<td align="center">🧠<br/><b>Algorithms</b><br/>Complexity & Optimization</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -312,40 +280,43 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 
 # 🏗️ System Design
 
-Currently developing knowledge in:
+Currently strengthening my understanding of **scalable and reliable software architecture**.
 
 ```text
-🏗️ System Architecture
-        │
-        ├── API Design
-        ├── Database Design
-        ├── Caching
-        ├── Load Balancing
-        ├── Scalability
-        ├── Availability
-        ├── Reliability
-        ├── Authentication
-        ├── Microservices
-        └── Distributed Systems
+🏗️ SYSTEM DESIGN
+       │
+       ├── API Design
+       ├── Database Design
+       ├── Caching
+       ├── Load Balancing
+       ├── Scalability
+       ├── Availability
+       ├── Reliability
+       ├── Authentication
+       ├── Microservices
+       ├── Distributed Systems
+       └── Fault Tolerance
 ```
 
 ### 🎯 Design Principles
 
-`Scalability` • `Reliability` • `Availability` • `Maintainability`
+`Scalability` • `Reliability` • `Availability`
 
-`Performance` • `Security` • `Fault Tolerance` • `Observability`
+`Performance` • `Security` • `Maintainability`
+
+`Fault Tolerance` • `Observability`
 
 ---
 
 # ☁️ DevOps & Cloud
 
-Exploring the software delivery lifecycle:
+Exploring how software moves from **development → deployment → production**.
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vercel" alt="DevOps and Cloud Technologies"/>
 
-</p>
+</div>
 
 ### 🔧 Areas I'm Exploring
 
@@ -357,51 +328,67 @@ Exploring the software delivery lifecycle:
 
 ---
 
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" alt="C C++ Python JavaScript"/>
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap,vite" alt="Frontend Technologies"/>
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies"/>
-</p>
-
-### 🗄️ Database & Cloud
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel" alt="Database and Cloud Technologies"/>
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,postman" alt="Development Tools"/>
-</p>
-
----
-
 # 🤖 AI & Emerging Technologies
 
-Currently exploring how AI can be integrated into practical software products.
+Exploring how AI can be integrated into practical software products.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI and Machine Learning"/>
+
+</div>
 
 ### Areas of Interest
 
 `AI APIs` • `LLM Applications` • `Prompt Engineering`
 
-`AI-powered Web Applications` • `RAG` • `Embeddings`
+`RAG` • `Embeddings` • `AI-powered Web Applications`
 
 `Machine Learning Fundamentals`
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" alt="Programming Languages"/>
+
+</div>
+
+### 🎨 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap,vite" alt="Frontend Technologies"/>
+
+</div>
+
+### ⚙️ Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies"/>
+
+</div>
+
+### 🗄️ Database & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel,render" alt="Database and Platforms"/>
+
+</div>
+
+### 🔧 Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,postman" alt="Development Tools"/>
+
+</div>
 
 ---
 
@@ -434,43 +421,43 @@ Currently exploring how AI can be integrated into practical software products.
 <div align="center">
 
 ```text
-                              👨‍💻
-                         CSE STUDENT
-                              │
-                              ▼
-                 ┌────────────────────────┐
-                 │   📚 CS FUNDAMENTALS   │
-                 │                        │
-                 │ OOP • OS • DBMS • CN   │
-                 │ Computer Architecture │
-                 └───────────┬────────────┘
-                             │
-               ┌─────────────┴─────────────┐
-               ▼                           ▼
-        🧠 DSA & CP                  💻 FULL STACK
-               │                           │
-        200+ Problems                MERN • APIs
-               │                           │
-               └─────────────┬─────────────┘
-                             │
-                             ▼
-                    🏗️ SYSTEM DESIGN
-                             │
-                 Scalable Architecture
-                             │
-                             ▼
-                       ☁️ DEVOPS
-                             │
-                  Docker • CI/CD • Cloud
-                             │
-                             ▼
-                        🤖 AI / ML
-                             │
-                             ▼
-                  🌐 DISTRIBUTED SYSTEMS
-                             │
-                             ▼
-                   🚀 SOFTWARE ENGINEER
+                         👨‍💻
+                    CSE STUDENT
+                         │
+                         ▼
+              ┌──────────────────────┐
+              │ 📚 CS FUNDAMENTALS   │
+              │                      │
+              │ OOP • OS • DBMS • CN │
+              │ Computer Architecture│
+              └──────────┬───────────┘
+                         │
+              ┌──────────┴──────────┐
+              ▼                     ▼
+       🧠 DSA & CP             💻 FULL STACK
+              │                     │
+        200+ Problems          MERN • APIs
+              │                     │
+              └──────────┬──────────┘
+                         │
+                         ▼
+                 🏗️ SYSTEM DESIGN
+                         │
+                 Scalable Systems
+                         │
+                         ▼
+                    ☁️ DEVOPS
+                         │
+              Docker • CI/CD • Cloud
+                         │
+                         ▼
+                      🤖 AI / ML
+                         │
+                         ▼
+               🌐 DISTRIBUTED SYSTEMS
+                         │
+                         ▼
+                 🚀 SOFTWARE ENGINEER
 ```
 
 </div>
@@ -510,7 +497,7 @@ alt="GitHub Streak"
 <div align="center">
 
 <img
-src="https://github-profile-trophy-liard-delta.vercel.app/?username=PrabhakarG001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+src="https://github-profile-trophy.vercel.app/?username=PrabhakarG001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"
 alt="GitHub Trophies"
 width="100%"
 />
@@ -552,10 +539,24 @@ width="100%"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhakarG001&theme=tokyo-night&hide_border=true"
-alt="GitHub Contribution Activity Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhakarG001&theme=tokyo-night&hide_border=true&area=true"
+alt="GitHub Contribution Graph"
 width="100%"
 />
+
+</div>
+
+---
+
+# 🏅 LeetCode
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="200+ LeetCode Problems"/>
+
+<img src="https://img.shields.io/badge/LeetCode-50%2BDay%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="50 Day LeetCode Badge"/>
+
+<img src="https://img.shields.io/badge/LeetCode-100%2BDay%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="100 Day LeetCode Badge"/>
 
 </div>
 
@@ -583,26 +584,26 @@ I want to understand **how they work, why they work, where they fail, and how th
 | :----------------------------: | :---------------------------------------- |
 |           🧠 **DSA**           | Solve more challenging problems           |
 |       💻 **Development**       | Build production-quality applications     |
-|     📚 **CS Fundamentals**     | Strengthen core computer science concepts |
+|     📚 **CS Fundamentals**     | Strengthen core Computer Science concepts |
 |      🏗️ **System Design**     | Learn scalable architecture               |
-|          ☁️ **DevOps**         | Learn deployment, CI/CD & cloud           |
+|          ☁️ **DevOps**         | Learn deployment, CI/CD & Cloud           |
 |         🤖 **AI / ML**         | Build practical AI-powered applications   |
-| ⚔️ **Competitive Programming** | Improve speed and problem-solving         |
+| ⚔️ **Competitive Programming** | Improve speed and problem solving         |
 |         🚀 **Projects**        | Ship more real-world products             |
 
 </div>
 
 ---
 
-# 📌 Quick Facts
+# 📌 Quick Stats
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/DSA-200%2B%20Problems-58A6FF?style=for-the-badge" alt="200+ DSA Problems"/>
 
-<img src="https://img.shields.io/badge/LeetCode-50%2B%20Day%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 50 Day Badge"/>
+<img src="https://img.shields.io/badge/LeetCode-50%2B%20Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="50+ Days LeetCode"/>
 
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Day%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 100 Day Badge"/>
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="100+ Days LeetCode"/>
 
 <img src="https://img.shields.io/badge/Focus-Software%20Engineering-238636?style=for-the-badge" alt="Software Engineering"/>
 
