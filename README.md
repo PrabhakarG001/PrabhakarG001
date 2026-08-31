@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer • DSA & Competitive Programming • CSE Undergrad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+real-world+web+applications;200%2B+DSA+problems+solved;Exploring+AI-powered+applications;Full-Stack+%7C+MERN+%7C+Problem+Solving;Learn+%E2%86%92+Build+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+Real-World+Web+Applications;200%2B+DSA+Problems+Solved;Exploring+AI-Powered+Applications;Full-Stack+%7C+MERN+%7C+Problem+Solving;System+Design+%7C+DevOps+%7C+Cloud;Learn+%E2%86%92+Build+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PrabhakarG001&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=PrabhakarG001&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -26,25 +26,26 @@
 
 # 🧑‍💻 About Me
 
-I'm a **Second-Year B.Tech Computer Science student** passionate about building software, solving algorithmic problems, and exploring modern technologies.
+I'm a **Second-Year B.Tech Computer Science student** passionate about building software, solving algorithmic problems, and understanding how modern software systems work.
 
-I enjoy working across the stack — from creating responsive interfaces and scalable APIs to solving DSA problems and experimenting with AI-powered applications.
+I enjoy working across the stack — from building responsive interfaces and REST APIs to solving DSA problems, designing scalable systems, exploring DevOps, and experimenting with AI-powered applications.
 
 ```text
 🎓 B.Tech CSE Student
 💻 Full-Stack / MERN Developer
 🧠 200+ DSA Problems Solved
 ⚔️ Competitive Programming
-🤖 Exploring AI & ML
-🏗️ Learning System Design
-☁️ Exploring DevOps & Cloud
+📚 CS Fundamentals
+🏗️ System Design
+☁️ DevOps & Cloud
+🤖 AI / ML
 🚀 Hackathon Enthusiast
 🌱 Always Learning & Building
 ```
 
 ### 🎯 My Goal
 
-> Become a strong **Software Engineer** by continuously learning, building real-world products, solving challenging problems, and understanding how software systems work at scale.
+> Become a strong **Software Engineer** by continuously learning, building real-world products, solving challenging problems, and understanding software from fundamentals to scalable systems.
 
 ---
 
@@ -57,15 +58,15 @@ I enjoy working across the stack — from creating responsive interfaces and sca
 
 ## 💻 Full-Stack Development
 
-Building responsive and scalable web applications using modern frontend and backend technologies.
+Building modern, responsive and scalable web applications using the **MERN ecosystem** and modern frontend technologies.
 
 </td>
 
 <td width="50%" align="center">
 
-## 🧠 Problem Solving
+## 🧠 DSA & Problem Solving
 
-**200+ DSA problems solved** with a focus on algorithms, patterns, optimization, and complexity.
+I've solved **200+ DSA problems**, focusing on algorithms, patterns, optimization, and Time & Space Complexity.
 
 </td>
 
@@ -77,7 +78,7 @@ Building responsive and scalable web applications using modern frontend and back
 
 ## 🏗️ System Design
 
-Learning how to design **scalable, reliable and maintainable software systems**.
+Learning how to design **scalable, reliable and maintainable systems**, from APIs and databases to distributed architectures.
 
 </td>
 
@@ -85,7 +86,7 @@ Learning how to design **scalable, reliable and maintainable software systems**.
 
 ## ☁️ DevOps & Cloud
 
-Exploring deployment, CI/CD, containers, cloud platforms, monitoring and production workflows.
+Exploring deployment, CI/CD, containers, cloud platforms, automation, monitoring and production workflows.
 
 </td>
 
@@ -99,11 +100,12 @@ Exploring deployment, CI/CD, containers, cloud platforms, monitoring and product
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-### 🤖 IntellixAI
+## 🤖 IntellixAI
 
 AI-powered application focused on intelligent interactions and modern AI API integration.
 
@@ -113,7 +115,7 @@ AI-powered application focused on intelligent interactions and modern AI API int
 
 <td width="50%">
 
-### ⚡ Ravnyx
+## ⚡ Ravnyx
 
 Modern full-stack application focused on delivering a scalable and polished web experience.
 
@@ -127,7 +129,7 @@ Modern full-stack application focused on delivering a scalable and polished web 
 
 <td width="50%">
 
-### 🏠 StayVerse
+## 🏠 StayVerse
 
 Full-stack platform designed around property and stay discovery.
 
@@ -137,7 +139,7 @@ Full-stack platform designed around property and stay discovery.
 
 <td width="50%">
 
-### 👥 MeetSphere
+## 👥 MeetSphere
 
 Real-time communication and collaboration focused application.
 
@@ -151,7 +153,7 @@ Real-time communication and collaboration focused application.
 
 <td width="50%">
 
-### 🔐 ApproveX
+## 🔐 ApproveX
 
 Workflow-oriented application designed around approval and management processes.
 
@@ -161,7 +163,7 @@ Workflow-oriented application designed around approval and management processes.
 
 <td width="50%">
 
-### 🎮 Tic Tac Toe
+## 🎮 Tic Tac Toe
 
 Interactive browser-based game with a clean and responsive interface.
 
@@ -170,6 +172,7 @@ Interactive browser-based game with a clean and responsive interface.
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -194,12 +197,12 @@ Interactive browser-based game with a clean and responsive interface.
 
 <tr>
 <td align="center">🧩</td>
-<td><b>200+ DSA Problems Solved</b><br/>Algorithmic problem solving</td>
+<td><b>200+ DSA Problems Solved</b><br/>Continuous algorithmic problem solving</td>
 </tr>
 
 <tr>
 <td align="center">🔥</td>
-<td><b>100-Day LeetCode Badge</b><br/>Consistency in problem solving</td>
+<td><b>100-Day LeetCode Badge</b><br/>Consistent problem-solving practice</td>
 </tr>
 
 <tr>
@@ -230,7 +233,7 @@ Interactive browser-based game with a clean and responsive interface.
 
 # 🧠 Data Structures & Algorithms
 
-I've covered **Data Structures & Algorithms end-to-end** and solved **200+ problems**, focusing on understanding concepts, patterns, optimization, and complexity.
+I've covered **Data Structures & Algorithms end-to-end** and solved **200+ problems**, with a focus on understanding concepts, patterns, optimization, and complexity.
 
 ### 📚 Core Areas
 
@@ -244,22 +247,22 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 
 <br/>
 
+<img src="https://img.shields.io/badge/Hashing-00599C?style=for-the-badge" alt="Hashing"/>
 <img src="https://img.shields.io/badge/Recursion-00599C?style=for-the-badge" alt="Recursion"/>
 <img src="https://img.shields.io/badge/Backtracking-00599C?style=for-the-badge" alt="Backtracking"/>
 <img src="https://img.shields.io/badge/Binary_Search-00599C?style=for-the-badge" alt="Binary Search"/>
-<img src="https://img.shields.io/badge/Sorting-00599C?style=for-the-badge" alt="Sorting"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Trees-00599C?style=for-the-badge" alt="Trees"/>
-<img src="https://img.shields.io/badge/BST-00599C?style=for-the-badge" alt="BST"/>
+<img src="https://img.shields.io/badge/BST-00599C?style=for-the-badge" alt="Binary Search Tree"/>
 <img src="https://img.shields.io/badge/Heaps-00599C?style=for-the-badge" alt="Heaps"/>
-<img src="https://img.shields.io/badge/Greedy-00599C?style=for-the-badge" alt="Greedy"/>
+<img src="https://img.shields.io/badge/Greedy-00599C?style=for-the-badge" alt="Greedy Algorithms"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Graphs-00599C?style=for-the-badge" alt="Graphs"/>
-<img src="https://img.shields.io/badge/BFS_%2F_DFS-00599C?style=for-the-badge" alt="BFS DFS"/>
+<img src="https://img.shields.io/badge/BFS_%2F_DFS-00599C?style=for-the-badge" alt="BFS and DFS"/>
 <img src="https://img.shields.io/badge/Shortest_Path-00599C?style=for-the-badge" alt="Shortest Path"/>
 <img src="https://img.shields.io/badge/Topological_Sort-00599C?style=for-the-badge" alt="Topological Sort"/>
 
@@ -269,6 +272,12 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 <img src="https://img.shields.io/badge/Dynamic_Programming-00599C?style=for-the-badge" alt="Dynamic Programming"/>
 <img src="https://img.shields.io/badge/Bit_Manipulation-00599C?style=for-the-badge" alt="Bit Manipulation"/>
 <img src="https://img.shields.io/badge/Divide_%26_Conquer-00599C?style=for-the-badge" alt="Divide and Conquer"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Sliding_Window-00599C?style=for-the-badge" alt="Sliding Window"/>
+<img src="https://img.shields.io/badge/Two_Pointers-00599C?style=for-the-badge" alt="Two Pointers"/>
+<img src="https://img.shields.io/badge/Prefix_Sum-00599C?style=for-the-badge" alt="Prefix Sum"/>
 
 </p>
 
@@ -284,6 +293,70 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 
 ---
 
+# 📚 CS Fundamentals
+
+<div align="center">
+
+|   💻 Computer Science Area   | Focus                                           |
+| :--------------------------: | :---------------------------------------------- |
+|          🧩 **OOP**          | Object-Oriented Programming & Design Principles |
+|         🗄️ **DBMS**         | Databases, SQL, Normalization & Transactions    |
+|   ⚙️ **Operating Systems**   | Processes, Threads, Memory & Scheduling         |
+|   🌐 **Computer Networks**   | HTTP, TCP/IP, DNS & Networking Fundamentals     |
+| 🔢 **Computer Architecture** | CPU, Memory, Storage & System Basics            |
+|       🧠 **Algorithms**      | Complexity, Optimization & Problem Solving      |
+
+</div>
+
+---
+
+# 🏗️ System Design
+
+Currently developing knowledge in:
+
+```text
+🏗️ System Architecture
+        │
+        ├── API Design
+        ├── Database Design
+        ├── Caching
+        ├── Load Balancing
+        ├── Scalability
+        ├── Availability
+        ├── Reliability
+        ├── Authentication
+        ├── Microservices
+        └── Distributed Systems
+```
+
+### 🎯 Design Principles
+
+`Scalability` • `Reliability` • `Availability` • `Maintainability`
+
+`Performance` • `Security` • `Fault Tolerance` • `Observability`
+
+---
+
+# ☁️ DevOps & Cloud
+
+Exploring the software delivery lifecycle:
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vercel" alt="DevOps and Cloud Technologies"/>
+
+</p>
+
+### 🔧 Areas I'm Exploring
+
+`Git & GitHub` • `Linux` • `Docker` • `CI/CD`
+
+`Deployment` • `Cloud Platforms` • `Environment Management`
+
+`Monitoring` • `Automation` • `Production Workflows`
+
+---
+
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -295,50 +368,40 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 ### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap,vite" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap,vite" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies"/>
 </p>
 
 ### 🗄️ Database & Cloud
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel,render" alt="Database and cloud technologies"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel" alt="Database and Cloud Technologies"/>
 </p>
 
 ### 🔧 Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,postman" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,postman" alt="Development Tools"/>
 </p>
 
 ---
 
-# 🏗️ Engineering Knowledge
+# 🤖 AI & Emerging Technologies
 
-<div align="center">
+Currently exploring how AI can be integrated into practical software products.
 
-<table>
+### Areas of Interest
 
-<tr>
-<td align="center">🧠<br/><b>DSA</b><br/>200+ Problems</td>
-<td align="center">💻<br/><b>CS Fundamentals</b><br/>Core Concepts</td>
-<td align="center">🌐<br/><b>Full Stack</b><br/>MERN Development</td>
-</tr>
+`AI APIs` • `LLM Applications` • `Prompt Engineering`
 
-<tr>
-<td align="center">🏗️<br/><b>System Design</b><br/>Scalable Systems</td>
-<td align="center">☁️<br/><b>DevOps</b><br/>CI/CD & Deployment</td>
-<td align="center">🤖<br/><b>AI / ML</b><br/>AI Applications</td>
-</tr>
+`AI-powered Web Applications` • `RAG` • `Embeddings`
 
-</table>
-
-</div>
+`Machine Learning Fundamentals`
 
 ---
 
@@ -346,15 +409,21 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 
 <div align="center">
 
-### 🤖 AI-powered Applications
+<table>
 
-### 🏗️ System Design & Scalable Architecture
+<tr>
+<td align="center">🧠<br/><b>Advanced DSA</b></td>
+<td align="center">🏗️<br/><b>System Design</b></td>
+<td align="center">☁️<br/><b>DevOps</b></td>
+</tr>
 
-### ☁️ DevOps, Cloud & CI/CD
+<tr>
+<td align="center">🤖<br/><b>AI / ML</b></td>
+<td align="center">🌐<br/><b>Distributed Systems</b></td>
+<td align="center">🚀<br/><b>Production Apps</b></td>
+</tr>
 
-### 🧠 Advanced Problem Solving
-
-### 🌐 Distributed & Real-Time Applications
+</table>
 
 </div>
 
@@ -365,37 +434,43 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 <div align="center">
 
 ```text
-                         👨‍💻 CSE STUDENT
-                                │
-                                ▼
-                    ┌─────────────────────┐
-                    │  CS FUNDAMENTALS    │
-                    │                     │
-                    │ OS • DBMS • CN • OOP │
-                    └──────────┬──────────┘
-                               │
-                 ┌─────────────┴─────────────┐
-                 ▼                           ▼
-          🧠 DSA & CP                  💻 FULL STACK
-                 │                           │
-                 │                      MERN / APIs
-                 │                           │
-                 └─────────────┬─────────────┘
-                               ▼
-                       🏗️ SYSTEM DESIGN
-                               │
-                     Scalable Architecture
-                               │
-                               ▼
-                         ☁️ DEVOPS
-                               │
-                  CI/CD • Docker • Cloud
-                               │
-                               ▼
-                           🤖 AI / ML
-                               │
-                               ▼
-                    🚀 SOFTWARE ENGINEER
+                              👨‍💻
+                         CSE STUDENT
+                              │
+                              ▼
+                 ┌────────────────────────┐
+                 │   📚 CS FUNDAMENTALS   │
+                 │                        │
+                 │ OOP • OS • DBMS • CN   │
+                 │ Computer Architecture │
+                 └───────────┬────────────┘
+                             │
+               ┌─────────────┴─────────────┐
+               ▼                           ▼
+        🧠 DSA & CP                  💻 FULL STACK
+               │                           │
+        200+ Problems                MERN • APIs
+               │                           │
+               └─────────────┬─────────────┘
+                             │
+                             ▼
+                    🏗️ SYSTEM DESIGN
+                             │
+                 Scalable Architecture
+                             │
+                             ▼
+                       ☁️ DEVOPS
+                             │
+                  Docker • CI/CD • Cloud
+                             │
+                             ▼
+                        🤖 AI / ML
+                             │
+                             ▼
+                  🌐 DISTRIBUTED SYSTEMS
+                             │
+                             ▼
+                   🚀 SOFTWARE ENGINEER
 ```
 
 </div>
@@ -406,13 +481,25 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
+alt="GitHub Statistics"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&hide_border=true&theme=tokyonight" alt="Top programming languages"/>
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&hide_border=true&theme=tokyonight"
+alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=PrabhakarG001&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img
+width="70%"
+src="https://streak-stats.demolab.com/?user=PrabhakarG001&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
 
 </div>
 
@@ -422,7 +509,11 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PrabhakarG001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies"/>
+<img
+src="https://github-profile-trophy-liard-delta.vercel.app/?username=PrabhakarG001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+alt="GitHub Trophies"
+width="100%"
+/>
 
 </div>
 
@@ -432,7 +523,25 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+width="100%"
+/>
+
+</picture>
 
 </div>
 
@@ -442,7 +551,11 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhakarG001&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhakarG001&theme=tokyo-night&hide_border=true"
+alt="GitHub Contribution Activity Graph"
+width="100%"
+/>
 
 </div>
 
@@ -458,7 +571,7 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 
 I don't want to simply learn technologies.
 
-I want to understand **how they work, why they work, where they fail, and how they can be used to build useful and scalable products.**
+I want to understand **how they work, why they work, where they fail, and how they can be used to build useful, scalable and reliable products.**
 
 ---
 
@@ -466,15 +579,34 @@ I want to understand **how they work, why they work, where they fail, and how th
 
 <div align="center">
 
-|         Focus         | Goal                                    |
-| :-------------------: | :-------------------------------------- |
-|       🧠 **DSA**      | Solve more challenging problems         |
-|   💻 **Development**  | Build production-quality applications   |
-| 🏗️ **System Design** | Learn scalable architecture             |
-|     ☁️ **DevOps**     | Learn deployment & CI/CD                |
-|       🤖 **AI**       | Build practical AI-powered applications |
-|       ⚔️ **CP**       | Improve competitive programming         |
-|    🚀 **Projects**    | Ship more real-world products           |
+|              Focus             | Goal                                      |
+| :----------------------------: | :---------------------------------------- |
+|           🧠 **DSA**           | Solve more challenging problems           |
+|       💻 **Development**       | Build production-quality applications     |
+|     📚 **CS Fundamentals**     | Strengthen core computer science concepts |
+|      🏗️ **System Design**     | Learn scalable architecture               |
+|          ☁️ **DevOps**         | Learn deployment, CI/CD & cloud           |
+|         🤖 **AI / ML**         | Build practical AI-powered applications   |
+| ⚔️ **Competitive Programming** | Improve speed and problem-solving         |
+|         🚀 **Projects**        | Ship more real-world products             |
+
+</div>
+
+---
+
+# 📌 Quick Facts
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA-200%2B%20Problems-58A6FF?style=for-the-badge" alt="200+ DSA Problems"/>
+
+<img src="https://img.shields.io/badge/LeetCode-50%2B%20Day%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 50 Day Badge"/>
+
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Day%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 100 Day Badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-238636?style=for-the-badge" alt="Software Engineering"/>
+
+<img src="https://img.shields.io/badge/Stack-MERN-61DAFB?style=for-the-badge" alt="MERN Stack"/>
 
 </div>
 
@@ -504,7 +636,10 @@ Let's connect and build something awesome.
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Animated footer"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+alt="Animated Footer"
+/>
 
 ### **Keep Building • Keep Learning • Keep Improving 🚀**
 
