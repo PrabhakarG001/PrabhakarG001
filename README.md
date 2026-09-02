@@ -482,23 +482,25 @@ Exploring how AI can be integrated into practical software products.
 
 <img
 width="49%"
-src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&theme=tokyonight&hide_border=true"
 alt="GitHub Statistics"
 />
 
 <img
 width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&hide_border=true&theme=tokyonight"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&theme=tokyonight&hide_border=true"
 alt="Top Languages"
 />
 
 <br/><br/>
 
+<a href="https://github.com/PrabhakarG001">
 <img
 width="70%"
 src="https://streak-stats.demolab.com/?user=PrabhakarG001&theme=tokyonight&hide_border=true"
 alt="GitHub Streak"
 />
+</a>
 
 </div>
 
@@ -523,23 +525,19 @@ width="100%"
 <div align="center">
 
 <picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-width="100%"
-/>
-
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </picture>
 
 </div>
