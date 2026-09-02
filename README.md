@@ -13,7 +13,7 @@
 </a>
 
 <a href="mailto:prabhakarg465to@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -24,11 +24,11 @@
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Second-Year B.Tech Computer Science student** passionate about software development, problem solving, and learning how modern software systems work.
+I'm a **Second-Year B.Tech Computer Science student** passionate about software development, problem solving, and understanding how modern software systems work.
 
-I enjoy building applications across the stack, solving **Data Structures & Algorithms problems**, exploring **System Design and CS Fundamentals**, and learning how applications are deployed and scaled using **DevOps & Cloud technologies**.
+I enjoy building full-stack applications, solving **Data Structures & Algorithms problems**, exploring **System Design and CS fundamentals**, and learning how applications are deployed and scaled using **DevOps and Cloud technologies**.
 
 ```text
 🎓 B.Tech CSE Student
@@ -43,9 +43,9 @@ I enjoy building applications across the stack, solving **Data Structures & Algo
 🌱 Continuous Learner
 ```
 
-### 🎯 My Goal
+### 🎯 Goal
 
-> Become a strong **Software Engineer** by continuously learning, building real-world products, solving challenging problems, and understanding software from fundamentals to scalable systems.
+> Become a strong Software Engineer by continuously learning, building real-world products, solving challenging problems, and understanding software from fundamentals to scalable systems.
 
 ---
 
@@ -66,7 +66,7 @@ Building modern, responsive and scalable web applications using the **MERN ecosy
 
 ### 🧠 DSA & Problem Solving
 
-Solved **200+ DSA problems**, with a focus on algorithms, patterns, optimization and Time & Space Complexity.
+Solved **200+ DSA problems**, focusing on algorithms, patterns, optimization and Time & Space Complexity.
 
 </td>
 
@@ -102,7 +102,7 @@ Exploring deployment, CI/CD, containers, cloud platforms, automation and product
 
 <td width="50%">
 
-## 🤖 IntellixAI
+### 🤖 IntellixAI
 
 AI-powered application focused on intelligent interactions and modern AI API integration.
 
@@ -112,7 +112,7 @@ AI-powered application focused on intelligent interactions and modern AI API int
 
 <td width="50%">
 
-## ⚡ Ravnyx
+### ⚡ Ravnyx
 
 Modern full-stack application focused on delivering a scalable and polished web experience.
 
@@ -126,7 +126,7 @@ Modern full-stack application focused on delivering a scalable and polished web 
 
 <td width="50%">
 
-## 🏠 StayVerse
+### 🏠 StayVerse
 
 Full-stack platform designed around property and stay discovery.
 
@@ -136,7 +136,7 @@ Full-stack platform designed around property and stay discovery.
 
 <td width="50%">
 
-## 👥 MeetSphere
+### 👥 MeetSphere
 
 Real-time communication and collaboration focused application.
 
@@ -150,7 +150,7 @@ Real-time communication and collaboration focused application.
 
 <td width="50%">
 
-## 🔐 ApproveX
+### 🔐 ApproveX
 
 Workflow-oriented application designed around approval and management processes.
 
@@ -160,7 +160,7 @@ Workflow-oriented application designed around approval and management processes.
 
 <td width="50%">
 
-## 🎮 Tic Tac Toe
+### 🎮 Tic Tac Toe
 
 Interactive browser-based game with a clean and responsive interface.
 
@@ -196,7 +196,7 @@ Interactive browser-based game with a clean and responsive interface.
 
 I've covered **Data Structures & Algorithms end-to-end** and solved **200+ problems**, focusing on concepts, patterns, optimization and complexity.
 
-### 📚 Topics Covered
+### 📚 Topics
 
 <div align="center">
 
@@ -223,7 +223,7 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 <br/>
 
 <img src="https://img.shields.io/badge/Graphs-00599C?style=for-the-badge" alt="Graphs"/>
-<img src="https://img.shields.io/badge/BFS_%2F_DFS-00599C?style=for-the-badge" alt="BFS DFS"/>
+<img src="https://img.shields.io/badge/BFS_%2F_DFS-00599C?style=for-the-badge" alt="BFS / DFS"/>
 <img src="https://img.shields.io/badge/Shortest_Path-00599C?style=for-the-badge" alt="Shortest Path"/>
 <img src="https://img.shields.io/badge/Topological_Sort-00599C?style=for-the-badge" alt="Topological Sort"/>
 
@@ -232,7 +232,7 @@ I've covered **Data Structures & Algorithms end-to-end** and solved **200+ probl
 <img src="https://img.shields.io/badge/Tries-00599C?style=for-the-badge" alt="Tries"/>
 <img src="https://img.shields.io/badge/Dynamic_Programming-00599C?style=for-the-badge" alt="Dynamic Programming"/>
 <img src="https://img.shields.io/badge/Bit_Manipulation-00599C?style=for-the-badge" alt="Bit Manipulation"/>
-<img src="https://img.shields.io/badge/Divide_%26_Conquer-00599C?style=for-the-badge" alt="Divide and Conquer"/>
+<img src="https://img.shields.io/badge/Divide_%26_Conquer-00599C?style=for-the-badge" alt="Divide & Conquer"/>
 
 <br/>
 
@@ -284,18 +284,32 @@ Currently strengthening my understanding of **scalable and reliable software arc
 
 ```text
 🏗️ SYSTEM DESIGN
-       │
-       ├── API Design
-       ├── Database Design
-       ├── Caching
-       ├── Load Balancing
-       ├── Scalability
-       ├── Availability
-       ├── Reliability
-       ├── Authentication
-       ├── Microservices
-       ├── Distributed Systems
-       └── Fault Tolerance
+
+        API Design
+             │
+             ▼
+      Database Design
+             │
+             ▼
+          Caching
+             │
+             ▼
+      Load Balancing
+             │
+             ▼
+        Scalability
+             │
+             ▼
+       Availability
+             │
+             ▼
+       Reliability
+             │
+             ▼
+   Distributed Systems
+             │
+             ▼
+      Fault Tolerance
 ```
 
 ### 🎯 Design Principles
@@ -310,7 +324,9 @@ Currently strengthening my understanding of **scalable and reliable software arc
 
 # ☁️ DevOps & Cloud
 
-Exploring how software moves from **development → deployment → production**.
+Exploring how software moves from:
+
+**Development → Deployment → Production**
 
 <div align="center">
 
@@ -443,12 +459,8 @@ Exploring how AI can be integrated into practical software products.
                          ▼
                  🏗️ SYSTEM DESIGN
                          │
-                 Scalable Systems
-                         │
                          ▼
-                    ☁️ DEVOPS
-                         │
-              Docker • CI/CD • Cloud
+                      ☁️ DEVOPS
                          │
                          ▼
                       🤖 AI / ML
@@ -506,31 +518,19 @@ width="100%"
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg"
-/>
-
 <img
-src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg"
+src="https://raw.githubusercontent.com/PrabhakarG001/output/github-contribution-grid-snake.svg"
 alt="GitHub Contribution Snake"
 width="100%"
 />
 
-</picture>
-
 </div>
+
+> **Note:** The Snake image is generated automatically by GitHub Actions. Make sure the workflow creates the `output` branch and generates `github-contribution-grid-snake.svg`.
 
 ---
 
@@ -554,9 +554,9 @@ width="100%"
 
 <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="200+ LeetCode Problems"/>
 
-<img src="https://img.shields.io/badge/LeetCode-50%2BDay%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="50 Day LeetCode Badge"/>
+<img src="https://img.shields.io/badge/LeetCode-50%2B%20Day%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="50 Day LeetCode Badge"/>
 
-<img src="https://img.shields.io/badge/LeetCode-100%2BDay%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="100 Day LeetCode Badge"/>
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Day%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="100 Day LeetCode Badge"/>
 
 </div>
 
@@ -581,7 +581,7 @@ I want to understand **how they work, why they work, where they fail, and how th
 <div align="center">
 
 |              Focus             | Goal                                      |
-| :----------------------------: | :---------------------------------------- |
+| :----------------------------: | ----------------------------------------- |
 |           🧠 **DSA**           | Solve more challenging problems           |
 |       💻 **Development**       | Build production-quality applications     |
 |     📚 **CS Fundamentals**     | Strengthen core Computer Science concepts |
@@ -600,8 +600,6 @@ I want to understand **how they work, why they work, where they fail, and how th
 <div align="center">
 
 <img src="https://img.shields.io/badge/DSA-200%2B%20Problems-58A6FF?style=for-the-badge" alt="200+ DSA Problems"/>
-
-<img src="https://img.shields.io/badge/LeetCode-50%2B%20Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="50+ Days LeetCode"/>
 
 <img src="https://img.shields.io/badge/LeetCode-100%2B%20Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="100+ Days LeetCode"/>
 
