@@ -194,7 +194,7 @@ Interactive browser-based game with a clean and responsive interface.
 
 # 🧠 Data Structures & Algorithms
 
-I've covered **Data Structures & Algorithms end-to-end** and solved **200+ problems**, focusing on concepts, patterns, optimization and complexity.
+I've covered **Data Structures & Algorithms end-to-end** and solved **200+ DSA problems**, focusing on concepts, patterns, optimization and complexity.
 
 ### 📚 Topics
 
@@ -522,15 +522,27 @@ width="100%"
 
 <div align="center">
 
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg"
+/>
+
 <img
-src="https://raw.githubusercontent.com/PrabhakarG001/output/github-contribution-grid-snake.svg"
+src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg"
 alt="GitHub Contribution Snake"
 width="100%"
 />
 
-</div>
+</picture>
 
-> **Note:** The Snake image is generated automatically by GitHub Actions. Make sure the workflow creates the `output` branch and generates `github-contribution-grid-snake.svg`.
+</div>
 
 ---
 
