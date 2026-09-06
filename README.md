@@ -1,33 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=220&section=header&text=Prabhakar%20Gupta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20%7C%20Software%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+## 👋 Hey, I'm Prabhakar Gupta
 
-# 👋 Hey, I'm Prabhakar Gupta
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Building+Real-World+Web+Applications;200%2B+DSA+Problems+Solved;MERN+%7C+Full-Stack+Development;Exploring+System+Design;Learning+DevOps+%26+Cloud;Building+AI-Powered+Applications;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation" />
 
 ### 💻 Full-Stack Developer • DSA & Competitive Programming • CSE Undergrad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Building+Real-World+Web+Applications;200%2B+DSA+Problems+Solved;MERN+%7C+Full-Stack+Development;Exploring+System+Design;Learning+DevOps+%26+Cloud;Building+AI-Powered+Applications;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation"/>
-
-<br/>
-
-<a href="https://linkedin.com/in/prabhakargupta/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:prabhakarg465to@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/PrabhakarG001">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=PrabhakarG001&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+<p>
+  <a href="https://linkedin.com/in/prabhakargupta">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:prabhakarg465to@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/PrabhakarG001">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
-
 ---
 
 ## 🧭 Navigation
