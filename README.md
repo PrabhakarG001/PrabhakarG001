@@ -1,10 +1,10 @@
 <div align="center">
 
-## 👋 Hey, I'm Prabhakar Gupta
+<h1>👋 Hey, I'm Prabhakar Gupta</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Building+Real-World+Web+Applications;200%2B+DSA+Problems+Solved;MERN+%7C+Full-Stack+Development;Exploring+System+Design;Learning+DevOps+%26+Cloud;Building+AI-Powered+Applications;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation" />
 
-### 💻 Full-Stack Developer • DSA & Competitive Programming • CSE Undergrad'29
+<h3>💻 Full-Stack Developer • DSA & Competitive Programming • CSE Undergrad'29</h3>
 
 <p>
   <a href="https://linkedin.com/in/prabhakargupta">
@@ -18,7 +18,85 @@
   </a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=PrabhakarG001&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/PrabhakarG001?label=Followers&style=flat-square" alt="GitHub Followers"/>
+</p>
+
 </div>
+
+---
+
+<div align="center">
+
+### 🧭 Explore My Profile
+
+**[👨‍💻 About](#-about-me)**   •  
+**[🚀 Projects](#-featured-projects)**   •  
+**[🧠 DSA](#-data-structures--algorithms)**   •  
+**[🛠️ Skills](#️-tech-stack)**
+
+**[🏆 Achievements](#-achievements)**   •  
+**[📊 GitHub](#-github-analytics)**   •  
+**[🎯 Goals](#-2026-focus)**   •  
+**[🤝 Connect](#-lets-connect)**
+
+</div>
+
+---
+
+## ⚡ Developer Snapshot
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻
+
+**Full-Stack**
+
+MERN Development
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**DSA**
+
+200+ Problems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+**Engineering**
+
+System Design
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Growth**
+
+Hackathons & CP
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ---
 
 ## 🧭 Navigation
