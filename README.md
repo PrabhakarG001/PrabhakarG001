@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <h1>👋 Hey, I'm Prabhakar Gupta</h1>
@@ -10,9 +11,11 @@
   <a href="https://linkedin.com/in/prabhakargupta">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="mailto:prabhakarg465to@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
   <a href="https://github.com/PrabhakarG001">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -20,6 +23,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=PrabhakarG001&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+
   <img src="https://img.shields.io/github/followers/PrabhakarG001?label=Followers&style=flat-square" alt="GitHub Followers"/>
 </p>
 
@@ -37,6 +41,8 @@
 [🏆 Achievements](#-achievements) •
 [🛠️ Skills](#️-tech-stack) •
 [📊 Analytics](#-github-analytics) •
+[📈 Activity](#-coding-activity) •
+[🧭 Journey](#-developer-journey) •
 [🏅 LeetCode](#-leetcode-progress) •
 [🎯 Focus](#-2026-focus) •
 [🤝 Connect](#-lets-connect)
@@ -61,11 +67,11 @@ I enjoy building **full-stack applications**, solving **Data Structures & Algori
 
 <div align="center">
 
-| 💻 Development |    🧠 Problem Solving   | 🏗️ Engineering |      🚀 Growth      |
-| :------------: | :---------------------: | :-------------: | :-----------------: |
-|   MERN Stack   |         200+ DSA        |  System Design  | Continuous Learning |
-|    REST APIs   |           C++           | CS Fundamentals |      Hackathons     |
-|  Responsive UI | Competitive Programming |      DevOps     |   AI Applications   |
+| 💻 Development | 🧠 Problem Solving | 🏗️ Engineering | 🚀 Growth |
+| :---: | :---: | :---: | :---: |
+| MERN Stack | 200+ DSA | System Design | Continuous Learning |
+| REST APIs | C++ | CS Fundamentals | Hackathons |
+| Responsive UI | Competitive Programming | DevOps | AI Applications |
 
 </div>
 
@@ -121,14 +127,14 @@ Exploring **Linux, Docker, CI/CD, deployment, cloud platforms and production wor
 
 <div align="center">
 
-|       Project      | Description                                                                          |         Technologies        |
-| :----------------: | :----------------------------------------------------------------------------------- | :-------------------------: |
-|  🤖 **IntellixAI** | AI-powered application focused on intelligent interactions and modern AI integration |  React • Node.js • AI APIs  |
-|    ⚡ **Ravnyx**    | Modern full-stack application focused on scalable web experiences                    |  React • Node.js • MongoDB  |
-|  🏠 **StayVerse**  | Full-stack platform designed around property and stay discovery                      |   MERN • REST APIs • Auth   |
-|  👥 **MeetSphere** | Communication and collaboration focused application                                  | React • Node.js • Socket.IO |
-|   🔐 **ApproveX**  | Workflow-oriented approval and management platform                                   |       MERN • REST APIs      |
-| 🎮 **Tic Tac Toe** | Interactive browser-based game                                                       |   HTML • CSS • JavaScript   |
+| Project | Description | Technologies |
+| :---: | :--- | :---: |
+| 🤖 **IntellixAI** | AI-powered application focused on intelligent interactions and modern AI integration | React • Node.js • AI APIs |
+| ⚡ **Ravnyx** | Modern full-stack application focused on scalable web experiences | React • Node.js • MongoDB |
+| 🏠 **StayVerse** | Full-stack platform designed around property and stay discovery | MERN • REST APIs • Auth |
+| 👥 **MeetSphere** | Communication and collaboration focused application | React • Node.js • Socket.IO |
+| 🔐 **ApproveX** | Workflow-oriented approval and management platform | MERN • REST APIs |
+| 🎮 **Tic Tac Toe** | Interactive browser-based game | HTML • CSS • JavaScript |
 
 </div>
 
@@ -144,16 +150,16 @@ Exploring **Linux, Docker, CI/CD, deployment, cloud platforms and production wor
 
 <div align="center">
 
-| 🏅 Achievement                                | 📌 Details                        |
-| :-------------------------------------------- | :-------------------------------- |
-| 🥉 **2nd Runner-Up — Hack The Beginning '26** | 150+ participating teams          |
-| 🚀 **Smart India Hackathon**                  | Qualified through internal rounds |
-| 🧩 **200+ DSA Problems**                      | Algorithmic problem solving       |
-| 🔥 **100-Day LeetCode Badge**                 | Consistent coding practice        |
-| 🏅 **50-Day LeetCode Badge**                  | Consistent problem solving        |
-| 📜 **Full-Stack Web Development**             | Apna College                      |
-| 📜 **DSA Certification**                      | Apna College                      |
-| 🤖 **AI Skills Certificate**                  | IBM SkillsBuild                   |
+| 🏅 Achievement | 📌 Details |
+| :--- | :--- |
+| 🥉 **2nd Runner-Up — Hack The Beginning '26** | 150+ participating teams |
+| 🚀 **Smart India Hackathon** | Qualified through internal rounds |
+| 🧩 **200+ DSA Problems** | Algorithmic problem solving |
+| 🔥 **100-Day LeetCode Badge** | Consistent coding practice |
+| 🏅 **50-Day LeetCode Badge** | Consistent problem solving |
+| 📜 **Full-Stack Web Development** | Apna College |
+| 📜 **DSA Certification** | Apna College |
+| 🤖 **AI Skills Certificate** | IBM SkillsBuild |
 
 </div>
 
@@ -209,13 +215,13 @@ Exploring **Linux, Docker, CI/CD, deployment, cloud platforms and production wor
 
 <div align="center">
 
-|            🧩 OOP           |     🗄️ DBMS    | ⚙️ Operating Systems |
-| :-------------------------: | :-------------: | :------------------: |
-| Object-Oriented Programming | Databases & SQL |  Processes & Memory  |
+| 🧩 OOP | 🗄️ DBMS | ⚙️ Operating Systems |
+| :---: | :---: | :---: |
+| Object-Oriented Programming | Databases & SQL | Processes & Memory |
 
-| 🌐 Computer Networks | 🔢 Computer Architecture |       🧠 Algorithms       |
-| :------------------: | :----------------------: | :-----------------------: |
-|      Networking      |       CPU & Memory       | Complexity & Optimization |
+| 🌐 Computer Networks | 🔢 Computer Architecture | 🧠 Algorithms |
+| :---: | :---: | :---: |
+| Networking | CPU & Memory | Complexity & Optimization |
 
 </div>
 
@@ -327,19 +333,21 @@ Exploring **Linux, Docker, CI/CD, deployment, cloud platforms and production wor
 
 <div align="center">
 
-### ⚡ GitHub Overview
+### ⚡ GitHub Activity Overview
 
-<a href="https://github.com/PrabhakarG001">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Overview" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg">
+  <img src="./profile/signal-field-wide-light.svg" width="95%" alt="GitHub Activity Overview">
+</picture>
 
-<a href="https://github.com/PrabhakarG001">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages" />
-</a>
+<br/>
 
-<br/><br/>
+### 💻 Language Composition
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhakarG001&theme=tokyonight" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/language-composition-wide-dark.svg">
+  <img src="./profile/language-composition-wide-light.svg" width="95%" alt="GitHub Language Composition">
+</picture>
 
 </div>
 
@@ -351,11 +359,43 @@ Exploring **Linux, Docker, CI/CD, deployment, cloud platforms and production wor
 
 ### 💻 Code • Commit • Contribute
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhakarG001&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Prabhakar%27s%20Coding%20Activity" alt="GitHub Coding Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-consistency-wide-dark.svg">
+  <img src="./profile/activity-consistency-wide-light.svg" width="95%" alt="GitHub Coding Activity">
+</picture>
 
 <br/><br/>
 
 **Build → Commit → Learn → Improve**
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+### 🟩 My GitHub Contribution Journey
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%">
+</picture>
+
+<br/>
+
+**Every contribution represents another step forward.**
+
+`Learn` → `Build` → `Commit` → `Contribute` → `Repeat`
 
 </div>
 
@@ -368,13 +408,24 @@ Exploring **Linux, Docker, CI/CD, deployment, cloud platforms and production wor
 ### 🧩 Problem Solving Dashboard
 
 <a href="https://leetcode.com/u/PrabhakarG001/">
-  <img width="98%" src="https://leetcard.jacoblin.cool/PrabhakarG001?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Statistics" />
+
+<img
+  width="98%"
+  src="https://leetcard.jacoblin.cool/PrabhakarG001?theme=dark&font=baloo&ext=heatmap"
+  alt="LeetCode Statistics"
+/>
+
 </a>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/PrabhakarG001/">
-  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+
+<img
+  src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+  alt="LeetCode Profile"
+/>
+
 </a>
 
 </div>
@@ -383,9 +434,105 @@ Exploring **Linux, Docker, CI/CD, deployment, cloud platforms and production wor
 
 <div align="center">
 
-| 🧩 Problems |     🔥 Streak     | 💻 Language |
-| :---------: | :---------------: | :---------: |
-|   **200+**  | **100-Day Badge** |   **C++**   |
+| 🧩 Problems | 🔥 Streak | 💻 Language |
+| :---: | :---: | :---: |
+| **200+** | **100-Day Badge** | **C++** |
+
+</div>
+
+---
+
+# 🧭 Developer Journey
+
+<div align="center">
+
+### 🚀 From Learning → Building → Engineering
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🌱 Phase 01
+
+**Foundation**
+
+C++  
+Programming Fundamentals  
+DSA Basics  
+Problem Solving
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚡ Phase 02
+
+**Development**
+
+HTML • CSS • JavaScript  
+React  
+Node.js  
+Express • MongoDB
+
+</td>
+
+<td width="25%" align="center">
+
+### 🏗️ Phase 03
+
+**Engineering**
+
+System Design  
+CS Fundamentals  
+REST APIs  
+Scalable Architecture
+
+</td>
+
+<td width="25%" align="center">
+
+### ☁️ Phase 04
+
+**Production**
+
+Git & GitHub  
+Linux  
+Docker  
+CI/CD • Cloud
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📍 Current Direction
+
+**Full-Stack Development**
+
+↓  
+
+**DSA & Competitive Programming**
+
+↓
+
+**System Design & CS Fundamentals**
+
+↓
+
+**DevOps & Cloud**
+
+↓
+
+**AI-Powered Applications**
+
+↓
+
+### 🎯 Goal: Become a Strong Software Engineer
 
 </div>
 
@@ -395,16 +542,16 @@ Exploring **Linux, Docker, CI/CD, deployment, cloud platforms and production wor
 
 <div align="center">
 
-|              Focus             | Goal                                   |
-| :----------------------------: | :------------------------------------- |
-|           🧠 **DSA**           | Solve challenging algorithmic problems |
-|       💻 **Development**       | Build production-quality applications  |
-|     📚 **CS Fundamentals**     | Strengthen core concepts               |
-|      🏗️ **System Design**     | Learn scalable architecture            |
-|          ☁️ **DevOps**         | Improve deployment & CI/CD skills      |
-|         🤖 **AI / ML**         | Build practical AI applications        |
-| ⚔️ **Competitive Programming** | Improve speed & accuracy               |
-|         🚀 **Projects**        | Ship real-world products               |
+| Focus | Goal |
+| :---: | :--- |
+| 🧠 **DSA** | Solve challenging algorithmic problems |
+| 💻 **Development** | Build production-quality applications |
+| 📚 **CS Fundamentals** | Strengthen core concepts |
+| 🏗️ **System Design** | Learn scalable architecture |
+| ☁️ **DevOps** | Improve deployment & CI/CD skills |
+| 🤖 **AI / ML** | Build practical AI applications |
+| ⚔️ **Competitive Programming** | Improve speed & accuracy |
+| 🚀 **Projects** | Ship real-world products |
 
 </div>
 
@@ -459,4 +606,5 @@ Let's connect and build something awesome.
 **Keep Building • Keep Learning • Keep Improving 🚀**
 
 </div>
+```
 
