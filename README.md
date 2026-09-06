@@ -31,18 +31,17 @@
 
 ### 🧭 Explore My Profile
 
-**[👨‍💻 About](#-about-me)**   •  
-**[🚀 Projects](#-featured-projects)**   •  
-**[🧠 DSA](#-data-structures--algorithms)**   •  
-**[🛠️ Skills](#️-tech-stack)**
-
-**[🏆 Achievements](#-achievements)**   •  
-**[📊 GitHub](#-github-analytics)**   •  
-**[🎯 Goals](#-2026-focus)**   •  
-**[🤝 Connect](#-lets-connect)**
+[👨‍💻 About](#-about-me) •
+[🚀 Projects](#-featured-projects) •
+[🧠 DSA](#-data-structures--algorithms) •
+[🏆 Achievements](#-achievements) •
+[🛠️ Skills](#️-tech-stack) •
+[📊 Analytics](#-github-analytics) •
+[🏅 LeetCode](#-leetcode-progress) •
+[🎯 Focus](#-2026-focus) •
+[🤝 Connect](#-lets-connect)
 
 </div>
-
 
 ---
 
@@ -50,19 +49,7 @@
 
 I'm a **B.Tech Computer Science student** passionate about software development, problem solving, and understanding how modern software systems work.
 
-I enjoy building full-stack applications, solving **Data Structures & Algorithms problems**, exploring **System Design and Computer Science fundamentals**, and learning how applications are deployed and scaled using **DevOps and Cloud technologies**.
-
-```text
-🎓 CSE Undergraduate
-💻 Full-Stack / MERN Developer
-🧠 200+ DSA Problems Solved
-⚔️ Competitive Programming
-🏗️ System Design
-☁️ DevOps & Cloud
-🤖 AI / ML
-🚀 Hackathon Enthusiast
-🌱 Continuous Learner
-```
+I enjoy building **full-stack applications**, solving **Data Structures & Algorithms problems**, exploring **System Design and Computer Science fundamentals**, and learning how applications are deployed and scaled using **DevOps and Cloud technologies**.
 
 ### 🎯 My Mission
 
@@ -91,17 +78,17 @@ I enjoy building full-stack applications, solving **Data Structures & Algorithms
 
 <td width="50%" align="center">
 
-## 💻 Full-Stack Development
+### 💻 Full-Stack Development
 
-Building modern, responsive and scalable applications using **React, Node.js, Express and MongoDB**.
+Building modern and responsive applications using **React, Node.js, Express and MongoDB**.
 
 </td>
 
 <td width="50%" align="center">
 
-## 🧠 DSA & CP
+### 🧠 DSA & Competitive Programming
 
-Solving algorithmic problems while improving **problem-solving ability, optimization and complexity analysis**.
+Improving problem-solving, optimization and complexity analysis through algorithmic challenges.
 
 </td>
 
@@ -111,17 +98,17 @@ Solving algorithmic problems while improving **problem-solving ability, optimiza
 
 <td width="50%" align="center">
 
-## 🏗️ System Design
+### 🏗️ System Design
 
-Learning how real-world systems are designed for **scalability, reliability and maintainability**.
+Learning how real-world applications are designed for **scalability, reliability and maintainability**.
 
 </td>
 
 <td width="50%" align="center">
 
-## ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 
-Exploring **Docker, Linux, CI/CD, deployment, cloud platforms and production workflows**.
+Exploring **Linux, Docker, CI/CD, deployment, cloud platforms and production workflows**.
 
 </td>
 
@@ -134,36 +121,22 @@ Exploring **Docker, Linux, CI/CD, deployment, cloud platforms and production wor
 
 <div align="center">
 
-|       Project      | Description                                                                          | Technologies                |
-| :----------------: | :----------------------------------------------------------------------------------- | :-------------------------- |
-|  🤖 **IntellixAI** | AI-powered application focused on intelligent interactions and modern AI integration | React • Node.js • AI APIs   |
-|    ⚡ **Ravnyx**    | Modern full-stack application focused on scalable web experiences                    | React • Node.js • MongoDB   |
-|  🏠 **StayVerse**  | Full-stack platform designed around property and stay discovery                      | MERN • REST APIs • Auth     |
+|       Project      | Description                                                                          |         Technologies        |
+| :----------------: | :----------------------------------------------------------------------------------- | :-------------------------: |
+|  🤖 **IntellixAI** | AI-powered application focused on intelligent interactions and modern AI integration |  React • Node.js • AI APIs  |
+|    ⚡ **Ravnyx**    | Modern full-stack application focused on scalable web experiences                    |  React • Node.js • MongoDB  |
+|  🏠 **StayVerse**  | Full-stack platform designed around property and stay discovery                      |   MERN • REST APIs • Auth   |
 |  👥 **MeetSphere** | Communication and collaboration focused application                                  | React • Node.js • Socket.IO |
-|   🔐 **ApproveX**  | Workflow-oriented approval and management platform                                   | MERN • REST APIs            |
-| 🎮 **Tic Tac Toe** | Interactive browser-based game                                                       | HTML • CSS • JavaScript     |
+|   🔐 **ApproveX**  | Workflow-oriented approval and management platform                                   |       MERN • REST APIs      |
+| 🎮 **Tic Tac Toe** | Interactive browser-based game                                                       |   HTML • CSS • JavaScript   |
 
 </div>
 
 ### 🧩 Project Philosophy
 
-```text
-Idea
- ↓
-Research
- ↓
-Design
- ↓
-Development
- ↓
-Testing
- ↓
-Deployment
- ↓
-Iteration
-```
+**Idea → Research → Design → Development → Testing → Deployment → Iteration**
 
-**Build → Ship → Learn → Improve**
+> **Build → Ship → Learn → Improve**
 
 ---
 
@@ -220,16 +193,15 @@ Iteration
 
 </div>
 
-### ⚔️ Problem Solving Stats
+### ⚔️ Problem Solving
 
-```text
-🧩 200+ Problems Solved
-💻 Primary Language: C++
-🧠 Pattern-Based Problem Solving
-⏱️ Time & Space Complexity
-⚔️ Competitive Programming
-📈 Continuous Improvement
-```
+<div align="center">
+
+**🧩 200+ Problems Solved** • **💻 C++** • **🧠 Pattern-Based Problem Solving**
+
+**⏱️ Time & Space Complexity** • **⚔️ Competitive Programming**
+
+</div>
 
 ---
 
@@ -237,21 +209,13 @@ Iteration
 
 <div align="center">
 
-<table>
+|            🧩 OOP           |     🗄️ DBMS    | ⚙️ Operating Systems |
+| :-------------------------: | :-------------: | :------------------: |
+| Object-Oriented Programming | Databases & SQL |  Processes & Memory  |
 
-<tr>
-<td align="center">🧩<br/><b>OOP</b><br/>Object-Oriented Programming</td>
-<td align="center">🗄️<br/><b>DBMS</b><br/>Databases & SQL</td>
-<td align="center">⚙️<br/><b>Operating Systems</b><br/>Processes & Memory</td>
-</tr>
-
-<tr>
-<td align="center">🌐<br/><b>Computer Networks</b><br/>Networking</td>
-<td align="center">🔢<br/><b>Computer Architecture</b><br/>CPU & Memory</td>
-<td align="center">🧠<br/><b>Algorithms</b><br/>Complexity & Optimization</td>
-</tr>
-
-</table>
+| 🌐 Computer Networks | 🔢 Computer Architecture |       🧠 Algorithms       |
+| :------------------: | :----------------------: | :-----------------------: |
+|      Networking      |       CPU & Memory       | Complexity & Optimization |
 
 </div>
 
@@ -259,45 +223,25 @@ Iteration
 
 # 🏗️ System Design
 
-```text
-                    🏗️ SYSTEM DESIGN
+<div align="center">
 
-                         │
-                         ▼
-                    API DESIGN
-                         │
-                         ▼
-                  DATABASE DESIGN
-                         │
-                         ▼
-                      CACHING
-                         │
-                         ▼
-                  LOAD BALANCING
-                         │
-                         ▼
-                    SCALABILITY
-                         │
-                         ▼
-                   AVAILABILITY
-                         │
-                         ▼
-                    RELIABILITY
-                         │
-                         ▼
-                DISTRIBUTED SYSTEMS
-                         │
-                         ▼
-                  FAULT TOLERANCE
-```
+**API Design** → **Database Design** → **Caching**
+
+↓
+
+**Load Balancing** → **Scalability** → **Availability**
+
+↓
+
+**Reliability** → **Distributed Systems** → **Fault Tolerance**
+
+</div>
 
 ### 🎯 Design Principles
 
-`Scalability` • `Reliability` • `Availability`
+`Scalability` • `Reliability` • `Availability` • `Performance`
 
-`Performance` • `Security` • `Maintainability`
-
-`Fault Tolerance` • `Observability`
+`Security` • `Maintainability` • `Fault Tolerance` • `Observability`
 
 ---
 
@@ -305,7 +249,7 @@ Iteration
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vercel" width="400"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vercel" />
 
 </div>
 
@@ -323,23 +267,9 @@ Iteration
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" width="180"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
 </div>
-
-```text
-AI APIs
-  ↓
-LLM Applications
-  ↓
-Prompt Engineering
-  ↓
-Embeddings
-  ↓
-RAG
-  ↓
-AI-Powered Applications
-```
 
 ### 🔭 Areas of Interest
 
@@ -355,7 +285,7 @@ AI-Powered Applications
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 
 </div>
 
@@ -363,7 +293,7 @@ AI-Powered Applications
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap,vite" />
 
 </div>
 
@@ -371,7 +301,7 @@ AI-Powered Applications
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
 </div>
 
@@ -379,7 +309,7 @@ AI-Powered Applications
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel,render"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel,render" />
 
 </div>
 
@@ -387,86 +317,61 @@ AI-Powered Applications
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,postman"/>
-
-</div>
-
----
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### ⚡ GitHub Performance Dashboard
-
-<a href="https://github.com/PrabhakarG001">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Overview" />
-</a>
-
-<a href="https://github.com/PrabhakarG001">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages" />
-</a>
-
-<br/>
-
-<a href="https://github.com/PrabhakarG001">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhakarG001&theme=tokyonight&hide_border=true&mode=weekly" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📈 Contribution Overview
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhakarG001&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,postman" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Journey
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### 🔥 Consistency Over Perfection
+### ⚡ GitHub Overview
 
-<img src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<a href="https://github.com/PrabhakarG001">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Overview" />
+</a>
 
-<br/>
+<a href="https://github.com/PrabhakarG001">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages" />
+</a>
 
-**Code → Commit → Contribute → Improve → Repeat 🔁**
+<br/><br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhakarG001&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🏅 LeetCode Progress
+# 📈 Coding Activity
+
+<div align="center">
+
+### 💻 Code • Commit • Contribute
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhakarG001&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Prabhakar%27s%20Coding%20Activity" alt="GitHub Coding Activity Graph" />
+
+<br/><br/>
+
+**Build → Commit → Learn → Improve**
+
+</div>
+
+---
+
+# 🏅 LeetCode Progress
 
 <div align="center">
 
 ### 🧩 Problem Solving Dashboard
 
 <a href="https://leetcode.com/u/PrabhakarG001/">
-  <img src="https://leetcard.jacoblin.cool/PrabhakarG001?theme=dark&font=baloo&ext=heatmap" alt="Prabhakar Gupta LeetCode Stats" />
+  <img width="98%" src="https://leetcard.jacoblin.cool/PrabhakarG001?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Statistics" />
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🧩 Problems Solved | 🔥 Current Streak | 🏆 Max Streak | ⚔️ Primary Language |
-| :----------------: | :---------------: | :-----------: | :-----------------: |
-|      **200+**      |      **Live**     |    **Live**   |       **C++**       |
-
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://leetcode.com/u/PrabhakarG001/">
   <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
@@ -474,96 +379,13 @@ AI-Powered Applications
 
 </div>
 
----
-
-## 📊 Coding Activity
-
-<div align="center">
-
-### 🚀 Build • Solve • Ship • Improve
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhakarG001&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Prabhakar's%20Contribution%20Activity" />
-
 <br/>
 
-**Learn → Practice → Solve → Build → Ship → Improve 🔁**
-
-</div>
----
-
-# 📌 Current Learning Dashboard
-
 <div align="center">
 
-|          Area          |    Status    |
-| :--------------------: | :----------: |
-|         🧠 DSA         |   🟢 Active  |
-|      💻 Full-Stack     |   🟢 Active  |
-|    🏗️ System Design   |  🟡 Learning |
-|        ☁️ DevOps       |  🟡 Learning |
-|       🤖 AI / ML       | 🟡 Exploring |
-| 🌐 Distributed Systems | 🔵 Exploring |
-
-</div>
-
----
-
-# 🔭 Currently Exploring
-
-```text
-🧠 Advanced DSA
-        ↓
-🏗️ System Design
-        ↓
-☁️ DevOps & Cloud
-        ↓
-🤖 AI-Powered Applications
-        ↓
-🌐 Distributed Systems
-        ↓
-🚀 Production Engineering
-```
-
----
-
-# 🗺️ Developer Journey
-
-<div align="center">
-
-```text
-                         👨‍💻
-                    CSE STUDENT
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │ 📚 CS FUNDAMENTALS   │
-              │ OOP • OS • DBMS • CN │
-              │ Architecture         │
-              └──────────┬───────────┘
-                         │
-              ┌──────────┴──────────┐
-              ▼                     ▼
-        🧠 DSA & CP             💻 FULL STACK
-              │                     │
-        200+ Problems          MERN • APIs
-              │                     │
-              └──────────┬──────────┘
-                         │
-                         ▼
-                 🏗️ SYSTEM DESIGN
-                         │
-                         ▼
-                      ☁️ DEVOPS
-                         │
-                         ▼
-                      🤖 AI / ML
-                         │
-                         ▼
-               🌐 DISTRIBUTED SYSTEMS
-                         │
-                         ▼
-                  🚀 SOFTWARE ENGINEER
-```
+| 🧩 Problems |     🔥 Streak     | 💻 Language |
+| :---------: | :---------------: | :---------: |
+|   **200+**  | **100-Day Badge** |   **C++**   |
 
 </div>
 
@@ -579,7 +401,7 @@ AI-Powered Applications
 |       💻 **Development**       | Build production-quality applications  |
 |     📚 **CS Fundamentals**     | Strengthen core concepts               |
 |      🏗️ **System Design**     | Learn scalable architecture            |
-|          ☁️ **DevOps**         | Master deployment & CI/CD              |
+|          ☁️ **DevOps**         | Improve deployment & CI/CD skills      |
 |         🤖 **AI / ML**         | Build practical AI applications        |
 | ⚔️ **Competitive Programming** | Improve speed & accuracy               |
 |         🚀 **Projects**        | Ship real-world products               |
@@ -592,41 +414,15 @@ AI-Powered Applications
 
 <div align="center">
 
-# Learn → Build → Break → Debug → Improve → Repeat 🔁
+### **Learn → Build → Break → Debug → Improve → Repeat 🔁**
 
-### *"Don't just use technology. Understand it."*
+*"Don't just use technology. Understand it."*
 
 </div>
 
 I don't want to simply learn technologies.
 
 I want to understand **how they work, why they work, where they fail, and how they can be used to build useful, scalable and reliable products.**
-
----
-
-# 📈 My Growth Loop
-
-<div align="center">
-
-```text
-        📚 LEARN
-           ↓
-        🧪 EXPERIMENT
-           ↓
-        💻 BUILD
-           ↓
-        🐛 BREAK
-           ↓
-        🔍 DEBUG
-           ↓
-        🚀 SHIP
-           ↓
-        📊 ANALYZE
-           ↓
-        🔁 IMPROVE
-```
-
-</div>
 
 ---
 
@@ -656,10 +452,11 @@ Let's connect and build something awesome.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=120&section=footer" alt="Footer"/>
 
 ### ⭐ Thanks for visiting my profile!
 
-### **Keep Building • Keep Learning • Keep Improving 🚀**
+**Keep Building • Keep Learning • Keep Improving 🚀**
 
 </div>
+
