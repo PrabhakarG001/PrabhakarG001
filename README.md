@@ -392,73 +392,103 @@ AI-Powered Applications
 </div>
 
 ---
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+### ⚡ GitHub Performance Dashboard
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&hide_border=true&theme=tokyonight"/>
+<a href="https://github.com/PrabhakarG001">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Overview" />
+</a>
 
-<br/><br/>
+<a href="https://github.com/PrabhakarG001">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages" />
+</a>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=PrabhakarG001&theme=tokyonight&hide_border=true"/>
+<br/>
+
+<a href="https://github.com/PrabhakarG001">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhakarG001&theme=tokyonight&hide_border=true&mode=weekly" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhakarG001&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PrabhakarG001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=7" width="100%"/>
+### 🔥 Consistency Over Perfection
+
+<img src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+<br/>
+
+**Code → Commit → Contribute → Improve → Repeat 🔁**
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🏅 LeetCode Progress
 
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+### 🧩 Problem Solving Dashboard
+
+<a href="https://leetcode.com/u/PrabhakarG001/">
+  <img src="https://leetcard.jacoblin.cool/PrabhakarG001?theme=dark&font=baloo&ext=heatmap" alt="Prabhakar Gupta LeetCode Stats" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🧩 Problems Solved | 🔥 Current Streak | 🏆 Max Streak | ⚔️ Primary Language |
+| :----------------: | :---------------: | :-----------: | :-----------------: |
+|      **200+**      |      **Live**     |    **Live**   |       **C++**       |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/PrabhakarG001/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+</a>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📊 Coding Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhakarG001&theme=tokyo-night&hide_border=true&area=true&custom_title=Prabhakar's%20Contribution%20Graph" width="100%"/>
+### 🚀 Build • Solve • Ship • Improve
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhakarG001&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Prabhakar's%20Contribution%20Activity" />
+
+<br/>
+
+**Learn → Practice → Solve → Build → Ship → Improve 🔁**
 
 </div>
-
----
-
-# 🏅 LeetCode
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/50%2B%20Day%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/100%2B%20Day%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://leetcard.jacoblin.cool/PrabhakarG001?theme=dark&font=baloo&ext=heatmap" width="500"/>
-
-</div>
-
 ---
 
 # 📌 Current Learning Dashboard
