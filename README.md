@@ -1,5 +1,3 @@
-Make more attractive coding activity, contribution journey is not working, github analytics is not show correct data and remove thing from the Readme which look like weared
-
 <div align="center">
 
 <h1>👋 Hey, I'm Prabhakar Gupta</h1>
@@ -397,33 +395,28 @@ AI-Powered Applications
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <h3>⚡ GitHub Performance Dashboard</h3>
 
-### ⚡ GitHub Performance Dashboard
+  <a href="https://github.com/PrabhakarG001">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Overview" />
+  </a>
+  <a href="https://github.com/PrabhakarG001">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages" />
+  </a>
 
-<a href="https://github.com/PrabhakarG001">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Overview" />
-</a>
+  <br/>
 
-<a href="https://github.com/PrabhakarG001">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages" />
-</a>
-
-<br/>
-
-<a href="https://github.com/PrabhakarG001">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhakarG001&theme=tokyonight&hide_border=true&mode=weekly" />
-</a>
-
+  <a href="https://github.com/PrabhakarG001">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhakarG001&theme=tokyonight&hide_border=true&mode=weekly" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-
-### 📈 Contribution Overview
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhakarG001&theme=tokyonight" />
-
+  <h3>📈 Contribution Overview</h3>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhakarG001&theme=tokyonight" />
 </div>
 
 ---
@@ -431,15 +424,13 @@ AI-Powered Applications
 ## 🐍 Contribution Journey
 
 <div align="center">
+  <h3>🔥 Consistency Over Perfection</h3>
 
-### 🔥 Consistency Over Perfection
+  <img src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
-<img src="https://raw.githubusercontent.com/PrabhakarG001/PrabhakarG001/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <br/><br/>
 
-<br/>
-
-**Code → Commit → Contribute → Improve → Repeat 🔁**
-
+  <strong>Code → Commit → Contribute → Improve → Repeat 🔁</strong>
 </div>
 
 ---
