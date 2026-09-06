@@ -530,16 +530,10 @@ width="100%"
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhakarG001&theme=tokyo-night&hide_border=true&area=true"
-alt="GitHub Contribution Graph"
-width="100%"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhakarG001&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" width="100%" />
 </div>
 
 ---
