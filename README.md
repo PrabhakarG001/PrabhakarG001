@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Building+Real-World+Web+Applications;200%2B+DSA+Problems+Solved;MERN+%7C+Full-Stack+Development;Exploring+System+Design;Learning+DevOps+%26+Cloud;Building+AI-Powered+Applications;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation" />
 
-### 💻 Full-Stack Developer • DSA & Competitive Programming • CSE Undergrad
+### 💻 Full-Stack Developer • DSA & Competitive Programming • CSE Undergrad'29
 
 <p>
   <a href="https://linkedin.com/in/prabhakargupta">
