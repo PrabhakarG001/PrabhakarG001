@@ -2,7 +2,7 @@
 
 ## 👋 Hey, I'm Prabhakar Gupta
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Building+Real-World+Web+Applications;200%2B+DSA+Problems+Solved;MERN+%7C+Full-Stack+Development;Exploring+System+Design;Learning+DevOps+%26+Cloud;Building+AI-Powered+Applications;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Building+Real-World+Web+Applications;200%2B+DSA+Problems+Solved;MERN+%7C+Full-Stack+Development;Exploring+System+Design;Learning+DevOps+%26+Cloud;Building+AI-Powered+Applications;Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Ship+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation" />
 
 ### 💻 Full-Stack Developer • DSA & Competitive Programming • CSE Undergrad'29
 
@@ -26,34 +26,41 @@
 
 <div align="center">
 
-[👨‍💻 About](#-about-me) •
-[🚀 Projects](#-featured-projects) •
-[🧠 DSA](#-data-structures--algorithms) •
-[🏆 Achievements](#-achievements) •
-[🛠️ Skills](#️-tech-stack) •
-[📊 Analytics](#-github-analytics) •
-[📈 Coding Activity](#-coding-activity) •
-[🐍 Contribution Journey](#-contribution-journey) •
-[🏅 LeetCode](#-leetcode) •
-[🧭 Developer Journey](#-developer-journey) •
-[🎯 2026 Focus](#-2026-focus) •
-[🤝 Connect](#-lets-connect)
+<a href="#about">About</a> •
+<a href="#snapshot">Snapshot</a> •
+<a href="#what-i-do">What I Do</a> •
+<a href="#projects">Projects</a> •
+<a href="#achievements">Achievements</a> •
+<a href="#dsa">DSA</a> •
+<a href="#cs-fundamentals">CS Fundamentals</a> •
+<a href="#system-design">System Design</a> •
+<a href="#devops">DevOps</a> •
+<a href="#ai">AI</a> •
+<a href="#skills">Skills</a> •
+<a href="#analytics">Analytics</a> •
+<a href="#coding-activity">Coding Activity</a> •
+<a href="#contribution-journey">Contribution Journey</a> •
+<a href="#leetcode">LeetCode</a> •
+<a href="#developer-journey">Developer Journey</a> •
+<a href="#2026-focus">2026 Focus</a> •
+<a href="#connect">Connect</a>
 
 </div>
 
 ---
 
+<a id="about"></a>
 # 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science student** passionate about software development, problem solving, and understanding how modern software systems work. 
+I'm a **B.Tech Computer Science student** at ITS Engineering College, passionate about software development, problem-solving, and understanding how modern software systems scale.
 
-I enjoy building full-stack applications, solving **Data Structures & Algorithms problems**, exploring **System Design and Computer Science fundamentals**, and learning how applications are deployed and scaled using **DevOps and Cloud technologies**.
+I enjoy building full-stack applications, solving **Data Structures & Algorithms problems**, exploring **System Design**, and learning how applications are deployed using **DevOps and Cloud technologies**.
 
 ```text
 🎓 CSE Undergraduate
 💻 Full-Stack / MERN Developer
 🧠 200+ DSA Problems Solved
-⚔️ Competitive Programming
+⚔️ Competitive Programming (Codeforces / CodeChef)
 🏗️ System Design
 ☁️ DevOps & Cloud
 🤖 AI / ML
