@@ -1,50 +1,50 @@
 <div align="center">
 
-<h1>👋 Hey, I'm Prabhakar Gupta</h1>
+# 👋 Hey, I'm Prabhakar Gupta
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Building+Real-World+Web+Applications;200%2B+DSA+Problems+Solved;MERN+%7C+Full-Stack+Development;Exploring+System+Design;Learning+DevOps+%26+Cloud;Building+AI-Powered+Applications" alt="Typing Animation" />
+### 💻 Software Engineering Intern • CSE Undergraduate • Full-Stack Developer
 
-<h3>💻 Full-Stack Developer • DSA & Competitive Programming • CSE Undergrad'29</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Building+Real-World+Software;200%2B+DSA+Problems+Solved;Full-Stack+%7C+MERN+Development;Exploring+System+Design;Building+AI-Powered+Applications;Learning+DevOps+%26+Cloud" alt="Typing Animation"/>
 
 <p>
 <a href="https://linkedin.com/in/prabhakargupta">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:prabhakarg465to@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/PrabhakarG001">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=PrabhakarG001&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/PrabhakarG001?label=Followers&style=flat-square" alt="GitHub Followers"/>
+<img src="https://komarev.com/ghpvc/?username=PrabhakarG001&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/PrabhakarG001?label=Followers&style=flat-square"/>
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science student** passionate about software development, problem solving, and understanding how modern software systems work.
+I'm a **Computer Science undergraduate and Software Engineering Intern** interested in building reliable, scalable, and user-focused software.
 
-I enjoy building **full-stack applications**, solving **Data Structures & Algorithms problems**, exploring **System Design and CS fundamentals**, and learning how applications are deployed using **DevOps and Cloud technologies**.
+My focus combines **software engineering, problem solving, full-stack development, and modern AI applications**.
 
 ```text
-🎓 CSE Undergraduate
-💻 Full-Stack / MERN Developer
-🧠 200+ DSA Problems Solved
-⚔️ Competitive Programming
+💻 Software Engineering
+🚀 Full-Stack Development
+🧠 DSA & Problem Solving
 🏗️ System Design
+🤖 AI-Powered Applications
 ☁️ DevOps & Cloud
-🤖 AI / ML
-🚀 Hackathon Enthusiast
+⚔️ Competitive Programming
+🏆 Hackathons & Product Development
 ```
+
+> **I learn by building, break things by experimenting, and improve by understanding the fundamentals.**
 
 ---
 
@@ -52,14 +52,14 @@ I enjoy building **full-stack applications**, solving **Data Structures & Algori
 
 <div align="center">
 
-| Project | Description | Technologies |
+| Project | What I Built | Technologies |
 | :---: | :--- | :--- |
-| 🤖 **IntellixAI** | AI-powered application focused on intelligent interactions and modern AI integration | React • Node.js • AI APIs |
-| ⚡ **Ravnyx** | Modern full-stack application focused on scalable web experiences | React • Node.js • MongoDB |
-| 🏠 **StayVerse** | Full-stack platform designed around property and stay discovery | MERN • REST APIs • Auth |
-| 👥 **MeetSphere** | Real-time communication and collaboration application | React • Node.js • Socket.IO |
-| 🍯 **HoneyChain** | Blockchain-based honey traceability and supply-chain platform | Flutter • FastAPI • PostgreSQL • Solidity |
-| 🔐 **ApproveX** | Workflow-oriented approval and management platform | MERN • REST APIs |
+| 🤖 **IntellixAI** | AI-powered application with modern AI integration | React • Node.js • AI APIs |
+| ⚡ **Ravnyx** | Full-stack application focused on scalable web experiences | React • Node.js • MongoDB |
+| 🏠 **StayVerse** | Property and stay discovery platform | MERN • REST APIs • Auth |
+| 👥 **MeetSphere** | Real-time communication & collaboration platform | React • Node.js • Socket.IO |
+| 🍯 **HoneyChain** | Blockchain-based honey traceability platform | Flutter • FastAPI • PostgreSQL • Solidity |
+| 🔐 **ApproveX** | Workflow-based approval & management platform | MERN • REST APIs |
 
 </div>
 
@@ -73,8 +73,8 @@ I enjoy building **full-stack applications**, solving **Data Structures & Algori
 | :--- | :--- |
 | 🥉 **2nd Runner-Up — Hack The Beginning '26** | 150+ participating teams |
 | 🚀 **Smart India Hackathon** | Qualified through internal rounds |
-| 🧩 **200+ DSA Problems** | Algorithmic problem solving |
-| 🔥 **LeetCode Badges** | Consistent coding practice |
+| 🧩 **200+ DSA Problems** | Consistent algorithmic practice |
+| 🔥 **LeetCode Badges** | Long-term coding consistency |
 | 📜 **Full-Stack Web Development** | Apna College |
 | 📜 **DSA Certification** | Apna College |
 | 🤖 **AI Skills Certificate** | IBM SkillsBuild |
@@ -83,25 +83,25 @@ I enjoy building **full-stack applications**, solving **Data Structures & Algori
 
 ---
 
-# 🧠 Data Structures & Algorithms
+# 🧠 Problem Solving
 
 <div align="center">
 
-### 🧩 Problem Solving
+### 200+ DSA Problems Solved
 
-```text
-🧠 200+ Problems Solved
-💻 Primary Language: C++
-⚔️ Competitive Programming
-⏱️ Time & Space Complexity
-📈 Pattern-Based Problem Solving
-```
+`C++` • `Data Structures` • `Algorithms` • `Complexity Analysis` • `Competitive Programming`
+
+<a href="https://leetcode.com/u/PrabhakarG001/">
+
+<img src="https://leetcard.jacoblin.cool/PrabhakarG001?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
+
+</a>
 
 </div>
 
 ---
 
-# 📚 CS Fundamentals
+# 📚 Computer Science Fundamentals
 
 <div align="center">
 
@@ -130,82 +130,48 @@ I enjoy building **full-stack applications**, solving **Data Structures & Algori
 ### 👨‍💻 Languages
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript"/>
-
 </div>
 
 ### 🎨 Frontend
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap,vite"/>
-
 </div>
 
 ### ⚙️ Backend
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
 </div>
 
 ### 🗄️ Databases & Platforms
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,vercel,render"/>
-
 </div>
 
 ### 🔧 Tools & DevOps
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,npm,pnpm,postman"/>
-
 </div>
 
 ---
 
-# 🏗️ System Design
-
-I'm currently exploring the fundamentals of designing scalable and reliable software systems.
-
-`API Design` • `Database Design` • `Caching` • `Load Balancing`
-
-`Scalability` • `Availability` • `Reliability` • `Fault Tolerance`
-
----
-
-# ☁️ DevOps & Cloud
+# 🏗️ Engineering Interests
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vercel" width="400"/>
+`System Design` • `API Design` • `Database Design`
+
+`Scalability` • `Reliability` • `Performance`
+
+`DevOps` • `Cloud` • `Distributed Systems`
+
+`AI APIs` • `LLM Applications` • `RAG` • `Machine Learning`
 
 </div>
-
-Exploring:
-
-`Docker` • `Linux` • `CI/CD` • `Deployment` • `Cloud`
-
----
-
-# 🤖 AI & Emerging Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow" width="180"/>
-
-</div>
-
-Exploring:
-
-`AI APIs` • `LLM Applications` • `RAG` • `Embeddings`
-
-`Prompt Engineering` • `Machine Learning` • `AI-Powered Applications`
 
 ---
 
@@ -213,90 +179,70 @@ Exploring:
 
 <div align="center">
 
-<h3>⚡ GitHub Performance</h3>
-
 <a href="https://github.com/PrabhakarG001">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Overview" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PrabhakarG001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Overview"/>
 
 </a>
 
 <a href="https://github.com/PrabhakarG001">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarG001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages"/>
 
 </a>
 
 <br/>
 
-<a href="https://github.com/PrabhakarG001">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhakarG001&theme=tokyonight&hide_border=true" />
-
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhakarG001&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏅 LeetCode Progress
+# 🎯 Currently Building & Learning
 
 <div align="center">
 
-<a href="https://leetcode.com/u/PrabhakarG001/">
-
-<img src="https://leetcard.jacoblin.cool/PrabhakarG001?theme=dark&font=baloo&ext=heatmap" alt="Prabhakar Gupta LeetCode Stats" />
-
-</a>
-
-<br/><br/>
-
-<b>200+ Problems Solved • C++ • Consistent Problem Solving</b>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/PrabhakarG001/">
-
-<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
-
-</a>
+| Area | Focus |
+| :---: | :--- |
+| 🧠 **DSA** | Advanced problem solving & competitive programming |
+| 💻 **Software Engineering** | Production-quality applications |
+| 🏗️ **System Design** | Scalable architecture & distributed systems |
+| ☁️ **DevOps** | Docker, CI/CD & deployment |
+| 🤖 **AI** | Practical AI-powered applications |
 
 </div>
 
 ---
 
-# 🔭 Currently Exploring
+# 💡 How I Build
 
 <div align="center">
 
-`Advanced DSA` • `System Design` • `DevOps & Cloud`
+```text
+Research → Design → Build → Test → Deploy → Improve
+```
 
-`AI-Powered Applications` • `Distributed Systems` • `Production Engineering`
-
-</div>
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-## Learn → Build → Debug → Improve → Repeat 🔁
+### **Learn • Build • Debug • Ship • Improve 🔁**
 
 </div>
 
-I don't want to simply learn technologies. I want to understand **how they work, why they work, where they fail, and how they can be used to build useful and scalable software.**
+I believe strong software comes from understanding **both the fundamentals and the systems built on top of them**.
 
 ---
 
 # 🤝 Let's Connect
 
-Interested in **Software Engineering, Full-Stack Development, DSA, System Design, AI, DevOps, Competitive Programming, or Hackathons?**
-
 <div align="center">
 
+### Interested in building something meaningful?
+
+Whether it's **Software Engineering, Full-Stack Development, DSA, AI, System Design, DevOps, or Hackathons**, I'm always open to learning, collaborating, and building.
+
+<br/>
+
 <a href="https://linkedin.com/in/prabhakargupta/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:prabhakarg465to@gmail.com">
@@ -304,7 +250,7 @@ Interested in **Software Engineering, Full-Stack Development, DSA, System Design
 </a>
 
 <a href="https://github.com/PrabhakarG001">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -315,6 +261,10 @@ Interested in **Software Engineering, Full-Stack Development, DSA, System Design
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=120&section=footer"/>
 
-### ⭐ Keep Building • Keep Learning • Keep Improving 🚀
+# 👋 Thanks for Visiting My Profile!
+
+### ⭐ If you found something interesting, feel free to explore my repositories.
+
+**Keep Building • Keep Learning • Keep Improving 🚀**
 
 </div>
