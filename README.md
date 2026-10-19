@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Prabhakar Gupta
 
-### 💻 Software Engineering Intern • CSE Undergraduate • Full-Stack Developer
+### 💻 Software Developer Engineer • CSE Undergraduate'29 • CP Enthusasist
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Building+Real-World+Software;200%2B+DSA+Problems+Solved;Full-Stack+%7C+MERN+Development;Exploring+System+Design;Building+AI-Powered+Applications;Learning+DevOps+%26+Cloud" alt="Typing Animation"/>
 
@@ -73,11 +73,12 @@ My focus combines **software engineering, problem solving, full-stack developmen
 | :--- | :--- |
 | 🥉 **2nd Runner-Up — Hack The Beginning '26** | 150+ participating teams |
 | 🚀 **Smart India Hackathon** | Qualified through internal rounds |
-| 🧩 **200+ DSA Problems** | Consistent algorithmic practice |
+| 🧩 **240+ DSA Problems** | Consistent algorithmic practice |
 | 🔥 **LeetCode Badges** | Long-term coding consistency |
 | 📜 **Full-Stack Web Development** | Apna College |
 | 📜 **DSA Certification** | Apna College |
 | 🤖 **AI Skills Certificate** | IBM SkillsBuild |
+| 🤖 **Python Programming Certificate** | Quaere Etechnologies Pvt. Ltd |
 
 </div>
 
@@ -87,7 +88,7 @@ My focus combines **software engineering, problem solving, full-stack developmen
 
 <div align="center">
 
-### 200+ DSA Problems Solved
+### 240+ DSA Problems Solved
 
 `C++` • `Data Structures` • `Algorithms` • `Complexity Analysis` • `Competitive Programming`
 
