@@ -78,7 +78,7 @@ My focus combines **software engineering, problem solving, full-stack developmen
 | 📜 **Full-Stack Web Development** | Apna College |
 | 📜 **DSA Certification** | Apna College |
 | 🤖 **AI Skills Certificate** | IBM SkillsBuild |
-| 🤖 **Python Programming Certificate** | Quaere Etechnologies Pvt. Ltd |
+| 🐉 **Python Programming Certificate** | Quaere Etechnologies Pvt. Ltd |
 
 </div>
 
