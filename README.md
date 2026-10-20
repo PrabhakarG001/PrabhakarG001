@@ -110,12 +110,12 @@ My focus combines **software engineering, problem solving, full-stack developmen
 
 <tr>
 <td align="center">🧩<br/><b>OOP</b><br/>Object-Oriented Programming</td>
-<td align="center">🗄️<br/><b>DBMS</b><br/>Databases & SQL</td>
+<!-- <td align="center">🗄️<br/><b>DBMS</b><br/>Databases & SQL</td> -->
 <td align="center">⚙️<br/><b>Operating Systems</b><br/>Processes & Memory</td>
 </tr>
 
 <tr>
-<td align="center">🌐<br/><b>Computer Networks</b><br/>Networking</td>
+<!-- <td align="center">🌐<br/><b>Computer Networks</b><br/>Networking</td> -->
 <td align="center">🔢<br/><b>Computer Architecture</b><br/>CPU & Memory</td>
 <td align="center">🧠<br/><b>Algorithms</b><br/>Complexity & Optimization</td>
 </tr>
